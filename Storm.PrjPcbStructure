@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=Master.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=Master.SchDoc|Designator=U_Control|SchDesignator=U_Control|FileName=Control.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=Control.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Master.SchDoc|Designator=U_PowerStage|SchDesignator=U_PowerStage|FileName=PowerStage.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=PowerStage.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
